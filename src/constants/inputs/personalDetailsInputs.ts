@@ -1,0 +1,51 @@
+export const personalDetailsInputs = [
+  {
+    label: "First Name",
+    id: "first_name",
+    name: "personalDetailsSection.firstName",
+    placeholder: "First Name...",
+    type: "text",
+  },
+  {
+    label: "Last Name",
+    id: "last_name",
+    name: "personalDetailsSection.lastName",
+    placeholder: "Last Name...",
+    type: "text",
+  },
+  {
+    label: "Email",
+    id: "email",
+    name: "personalDetailsSection.email",
+    placeholder: "Email...",
+    type: "email",
+  },
+  {
+    label: "Phone",
+    id: "phone",
+    name: "personalDetailsSection.phone",
+    placeholder: "Phone...",
+    type: "text",
+  },
+  {
+    label: "Country",
+    id: "country",
+    name: "personalDetailsSection.country",
+    placeholder: "Country...",
+    type: "text",
+  },
+  {
+    label: "City",
+    id: "city",
+    name: "personalDetailsSection.city",
+    placeholder: "City...",
+    type: "text",
+  },
+  {
+    label: "Job Title",
+    id: "job_title",
+    name: "personalDetailsSection.jobTitle",
+    placeholder: "Job Title...",
+    type: "text",
+  },
+];
